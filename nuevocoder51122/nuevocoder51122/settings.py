@@ -54,7 +54,7 @@ ROOT_URLCONF = 'nuevocoder51122.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/Familia/Documents/Coder05112022/nuevocoder51122/nuevocoder51122/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
